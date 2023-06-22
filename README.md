@@ -1,5 +1,8 @@
 - OS: **Debian GNU/Linux**
 - Editor: **Emacs**
 - Package managers: learning **GUIX** now
-- Languages: **bash**, **ruby**, **rust**, **elisp**, **guile**
 - Ops engineer configures servers, DevOps engineer configures developers
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jsirex&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jsirex&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jsirex&theme=github) 
