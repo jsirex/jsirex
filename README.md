@@ -1,6 +1,5 @@
 - OS: **Debian GNU/Linux**
 - Editor: **Emacs**
-- Package managers: learning **GUIX** now
 - Ops engineer configures servers, DevOps engineer configures developers
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jsirex&theme=github)
